@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Abdullah Ahmed!  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A6A6&width=600&lines=Embedded+Systems+Engineer+%7C+Software+Developer;Verilog+%7C+MATLAB+%7C+C%2B%2B+%7C+Python;Passionate+about+AI+and+Hardware+Design;Always+learning+new+technologies!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A6A6&width=800&lines=Verilog+%7C+MATLAB+%7C+C+%7C+C%2B%2B+%7C+ModelSim;Cadence+%7C+Multisim+%7C+Proteus+%7C+Eclipse)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
