@@ -20,4 +20,4 @@
 
 
 ## 📌 Featured Project  
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=tokyonight)](https://github.com/Abdullah-Ahmedd/Codes)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-Ahmedd&repo=Codeso&theme=tokyonight)](https://github.com/Abdullah-Ahmedd/Codes)
