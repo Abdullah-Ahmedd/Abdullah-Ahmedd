@@ -1,3 +1,6 @@
+## 👋 Hello, I'm Abdullah Ahmed!  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A6A6&width=600&lines=Embedded+Systems+Engineer+%7C+Software+Developer;Verilog+%7C+MATLAB+%7C+C%2B%2B+%7C+Python;Passionate+about+AI+and+Hardware+Design;Always+learning+new+technologies!)](https://git.io/typing-svg)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-ahmed-786170286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
