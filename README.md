@@ -18,4 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdullah-Ahmedd&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📌 Featured Project  
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=tokyonight)](https://github.com/Abdullah-Ahmedd/Codes)
